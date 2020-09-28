@@ -1,2 +1,2 @@
 # React_Redux
- Theoretical explanation: Redux full cycle
+ Theorical explanation: Redux full cycle
