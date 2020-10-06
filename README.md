@@ -1,3 +1,5 @@
+![GitHub Logo](/src/img/screen.png)
+
 ## `Explicación teórica: ciclo completo de Redux`
 
 Cuando nuestro componente terminar de cargar (componentDidMount) llama al Action Creator, luego el Action Creator contiene la promesa, trae los datos necesarios y luego va y modifica al Reducer para que actualice el estado usando dispatch() y luego lo actualizamos en el componente con el mapStateToProps.
